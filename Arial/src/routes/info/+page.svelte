@@ -29,12 +29,13 @@
 
 <div style="">
 <h2>&lt;:::::::::::::]==() HELVETICA ()==[:::::::::::::&gt;</h2>
-<h3>Make a text only game, get a book audible membership, or ereader!</h3>
+<h3>Make a text only game, get a book Audible membership, or ereader!</h3>
 <p style="color:rgba(255, 255, 255, 0.6);">-+H+-+H+-+H+-+H+-</p>
 <p>
     Code for 3 hours, get an audible membership/credit or a book grant (local book stores encouraged!) <br>
     Code for 16 hours and get the <a href="https://www.xteink.com/products/xteink-x4">Xteink X4 Pocket eReader!</a>
     <br> <br> Track your work using Hackatime. No double dipping. You must be 18 or younger to participate!
+    <br> Pushing the prompt of text only game is great, I would love to see something I wouldnt have expected from the prompt!!
 
 </p>
 
@@ -78,26 +79,5 @@ pre {
     color:rgba(255, 255, 255, 0.6);
 }
 
-.main_centered{
-    font-family:monospace ;
-    color: white;
-    background: #000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* height: 100vh;  */
-    text-align: center;
-    flex-direction: column;
-    height: 98vh;
-    
-}
-
-h1{
-
-}
-
-p{
-
-}
 
 </style>
