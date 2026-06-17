@@ -37,6 +37,7 @@
 <p>In games like Zork, Rouge, and dwarf fortress, game developers have used text as a visual medium to great effect, now you try it out yourself!</p>
 <a href="/info">More Info</a>
 <a href="https://forms.hackclub.com/t/nY9z3h4d7zus">Submit</a>
+<br> <a href="https://hackclub.enterprise.slack.com/archives/C0BB07QGR6E">#Helvetica</a>
 </div>
 
 <pre>
