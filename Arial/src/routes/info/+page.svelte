@@ -33,7 +33,7 @@
 <h3>Make a text only game, get a book, Audible membership, or ereader!</h3>
 <p style="color:rgba(255, 255, 255, 0.6);">-+H+-+H+-+H+-+H+-</p>
 <p>
-    Code for 1 hour to get a custom sticker! <br>
+    Code for 1 hour to get an exclusive sticker! <br>
     Code for 3 hours, get an audible membership/credit or a book grant (local book stores encouraged!) <br>
     Code for 16 hours and get the <a href="https://www.xteink.com/products/xteink-x4">Xteink X4 Pocket eReader!</a>
     <br> <br> Track your work using Hackatime. No double dipping. You must be 18 or younger to participate!
