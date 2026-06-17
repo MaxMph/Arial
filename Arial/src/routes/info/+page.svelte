@@ -35,7 +35,7 @@
 <p>
     Code for 1 hour to get an exclusive sticker! <br>
     Code for 3 hours, get an audible membership/credit or a book grant (local book stores encouraged!) <br>
-    Code for 16 hours and get the <a href="https://www.xteink.com/products/xteink-x4">Xteink X4 Pocket eReader!</a>
+    Code for 12 hours and get the <a href="https://www.xteink.com/products/xteink-x4">Xteink X4 Pocket eReader!</a>
     <br> <br> Track your work using Hackatime. No double dipping. You must be 18 or younger to participate!
     <br> AI is allowed while coding but it cant make up the majority of the project. No AI art is allowed!
     <br> Pushing the prompt of text only game is great, I would love to see something I wouldnt have expected from the prompt!!
